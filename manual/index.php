@@ -183,7 +183,7 @@ function test_input($data) {
 </form>
 
 <?php
-print_r($_COOKIE);
+//print_r($_COOKIE);
 echo "<h2>Your Input:</h2>";
 echo $username;
 echo "<br>";
